@@ -6,6 +6,5 @@ fn call_me(num: u8) {
 
 fn main() {
     // TODO: Fix the function call.
-    call_me(8);
-    // Rust doesn't support default values in functions :o
+    call_me();
 }
