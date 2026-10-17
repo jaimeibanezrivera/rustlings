@@ -1,0 +1,2 @@
+# Break method chains onto one call per line almost always
+chain_width = 1
